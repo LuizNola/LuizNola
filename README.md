@@ -31,9 +31,9 @@
 
 <li>Projeto focado em UseContext do ReactJS</li>
 
-<strong>nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe</strong>
-
 </ul>
+
+<strong>nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe</strong>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuizNola&show_icons=true&theme=radical)
