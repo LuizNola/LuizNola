@@ -20,30 +20,21 @@
 
 </ul>
 
-<h1>Tecnologias que tenho boas bases</h1>
+<h1>Projetos Futuros (Atualizado dia 1/3/2021)</h1>
 
 <ul>
-<li>ReactJs</li>
+<li>Finalizar o Projeto BackEnd em node da NLW</li>
 
-<li>NodeJs</li> 
+<li>Primeiro projeto em java (Pretendo fazer uma api)</li> 
 
-<li>NextJs</li>
+<li>Primeiro projeto em angular (Provavelmente consumindo a api em java)</li>
 
-<li>Mongo DB</li>
+<li>Projeto focado em UseContext do ReactJS</li>
+
+**nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe
 
 </ul>
 
-<h1>Tecnologias a melhorar</h1>
-
-<ul>
-  
-<li>Java</li>
-
-<li>Angular</li> 
-
-<li>TypeScript</li>
-
-</ul>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuizNola&show_icons=true&theme=radical)
 
