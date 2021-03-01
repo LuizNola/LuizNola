@@ -31,7 +31,7 @@
 
 <li>Projeto focado em UseContext do ReactJS</li>
 
-**nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe
+<strong>nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe</strong>
 
 </ul>
 
