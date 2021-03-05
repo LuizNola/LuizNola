@@ -18,14 +18,16 @@
 
 <li>Tenho 18 anos de idade</li>
 
+<li>Estudando Java! ☕</li>
+
 </ul>
 
-<h1>Projetos Futuros (Atualizado dia 1/3/2021)</h1>
+<h1>Projetos Futuros (Atualizado dia 4/3/2021)</h1>
 
 <ul>
 <li>Finalizar o Projeto BackEnd em node da NLW</li>
 
-<li>Primeiro projeto em java (Pretendo fazer uma api)</li> 
+<li>projeto em java</li> 
 
 <li>Primeiro projeto em angular (Provavelmente consumindo a api em java)</li>
 
