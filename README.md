@@ -22,14 +22,11 @@
 
 </ul>
 
-<h1>Projetos Futuros (Atualizado dia 4/3/2021)</h1>
+<h1>Projetos Futuros (Atualizado dia 8/4/2021)</h1>
 
-<ul>
-<li>Finalizar o Projeto BackEnd em node da NLW</li>
+<ul> 
 
-<li>projeto em java</li> 
-
-<li>Primeiro projeto em angular (Provavelmente consumindo a api em java)</li>
+<li>Primeiro projeto em angular</li>
 
 <li>Projeto focado em UseContext do ReactJS</li>
 
