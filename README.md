@@ -10,9 +10,9 @@
 <h1>Fatos sobre min</h1>
 
 <ul>
-<li>Vou me tornar um programador web </li>
+<li>Sou Dev FullStack</li>
 
-<li>Por hora ainda não tenho experiencia na area. Mas so por hora!  </li> 
+<li>Trabalho na FCamara</li> 
 
 <li>Estudo Sistemas de informação na Fatef de São Vicente</li>
 
@@ -22,13 +22,11 @@
 
 </ul>
 
-<h1>Projetos Futuros (Atualizado dia 8/4/2021)</h1>
+<h1>Projetos Futuros (Atualizado dia 3/5/2021)</h1>
 
 <ul> 
 
-<li>Primeiro projeto em angular</li>
-
-<li>Projeto focado em UseContext do ReactJS</li>
+<li>Por Hora Focado nos cursos que a FCamara oferece e indica</li>
 
 </ul>
 
