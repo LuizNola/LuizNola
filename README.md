@@ -20,15 +20,6 @@
 
 <li>Estudando Java! ☕</li>
 
-</ul>
-
-<h1>Projetos Futuros (Atualizado dia 3/5/2021)</h1>
-
-<ul> 
-
-<li>Por Hora Focado nos cursos que a FCamara oferece e indica</li>
-
-</ul>
 
 <strong>nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe</strong>
 
