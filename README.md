@@ -16,9 +16,6 @@
 
 <li>Estudo Sistemas de informação na Fatef de São Vicente</li>
 
-<li>Tenho 18 anos de idade</li>
-
-<li>Estudando Java! ☕</li>
 
 
 <strong>nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe</strong>
