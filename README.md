@@ -10,9 +10,9 @@
 <h1>Fatos sobre min</h1>
 
 <ul>
-<li>Sou Dev FullStack</li>
+<li>Sou Analista de sistemas</li>
 
-<li>Trabalho na FCamara</li> 
+<li>Trabalho na Pravaler</li> 
 
 <li>Estudo Sistemas de informação na Fatef de São Vicente</li>
 
