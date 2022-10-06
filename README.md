@@ -20,8 +20,4 @@
 
 <strong>nota: Todos os projetos neste portifolio são para fins didaticos, então sinta-se a vontade para palpitar e clonar hehe</strong>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuizNola&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizNola&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
